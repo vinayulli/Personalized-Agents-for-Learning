@@ -1,0 +1,12 @@
+streamlit
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-qdrant
+qdrant-client
+mem0ai
+tavily-python
+python-dotenv
+pypdf
+docx2txt
